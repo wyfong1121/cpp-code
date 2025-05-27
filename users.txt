@@ -1,0 +1,6 @@
+alice 5 3 2 150.75
+bob 8 5 3 225.9
+charlie 2 1 1 65.3
+dave 10 7 3 310.65
+jame 1 1 1 100
+iloveyou 9 9 0 1230.85
